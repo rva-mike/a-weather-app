@@ -35,10 +35,6 @@ input {
     align-items: center;
 } 
 
-.title {
-    text-align: center !important;
-}
-
 input:focus {
     outline: none;
 }
