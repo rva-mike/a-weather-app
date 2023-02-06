@@ -35,6 +35,18 @@ input {
     align-items: center;
 } 
 
+h1 {
+    text-align: center;
+    
+}
+
 input:focus {
     outline: none;
 }
+
+
+@media screen and (max-width: 405px) {
+    body {
+        margin-top: 50px;
+    }
+  }
